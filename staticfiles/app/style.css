@@ -1,0 +1,126 @@
+/*Navbar Section*/
+.navbar{
+    padding: 20px;
+    background-image: url("https://st4.depositphotos.com/30440304/40260/i/450/depositphotos_402601718-stock-photo-abstract-background-colorful-wavy-design.jpg");
+    background-size: cover;
+}
+.navbar-brand{
+    font-weight: 600;
+}
+
+/*Landing Page*/
+.landing-page{
+    height: 100vh;
+    background-image: url("https://st3.depositphotos.com/30440304/34432/i/450/depositphotos_344328296-stock-photo-abstract-background-curved-lines-colorful.jpg");
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+
+}
+.landing-page-content{
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: start;
+    color: white;
+    width: 60%;
+    position: relative;
+    top: 150px;
+}
+.landing-page-greeting-message{
+    color: rgb(6, 241, 163);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+}
+.landing-page-my-intro{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+}
+.landing-page-button{
+    height: 30px;
+    width: 100px;
+    text-align: center;
+    color:rgb(6, 241, 163);
+    font-weight: 600;
+    border: 1px solid rgb(6, 241, 163);
+    border-radius: 10px;
+    background-color: transparent;
+    cursor: pointer;
+    text-decoration: none;
+}
+.landing-page-button:active{
+  transform: scale(0.95);
+}
+
+/*Content Section*/
+.content-section{
+    background-image: url("https://st3.depositphotos.com/30440304/34432/i/450/depositphotos_344328296-stock-photo-abstract-background-curved-lines-colorful.jpg");
+    background-size: cover;
+    color: white;
+}
+
+/*About*/
+.about-container{
+    margin-left: 20px;
+    padding: 10px;
+    color: white;
+    width: 70%;
+}
+.about-container h2{
+    color: rgb(6, 241, 163);
+}
+
+/*Skills*/
+.skill-container{
+    margin-left: 20px;
+    padding: 10px;
+    color: white;
+}
+.skill-container h2{
+    color: rgb(6, 241, 163);
+}
+
+/*Experience*/
+.experience-container{
+    margin-left: 20px;
+    padding: 10px;
+    color: white;
+    width: 70%;
+}
+.experience-container h2{
+    color: rgb(6, 241, 163);
+}
+
+/*Projects*/
+.projects-container{
+    margin-left: 20px;
+    padding: 10px;
+    color: white;
+    width: 70%;
+}
+.projects-container h2{
+    color: rgb(6, 241, 163);
+}
+.project-button{
+    display: inline-block; 
+    height: 30px;
+    width: 120px;
+    text-align: center;
+    border: 1px solid rgb(6, 241, 163);
+    border-radius: 10px;
+    color:rgb(6, 241, 163);
+    text-decoration: none;
+}
+.project-button:active{
+  transform: scale(0.95);
+}
+
+/*Footer*/
+footer{
+    background-image: url("https://st4.depositphotos.com/30440304/40260/i/450/depositphotos_402601718-stock-photo-abstract-background-colorful-wavy-design.jpg");
+    background-size: cover;
+}
+footer p{
+    color: rgb(6, 241, 163);
+}
