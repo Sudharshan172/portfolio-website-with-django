@@ -2,6 +2,8 @@
 
 This is a simple portfolio website built using **HTML**, **CSS**, **Bootstrap**, **Python**, **Django** to showcase my skills, education, and projects. It is designed to provide a quick overview of my background, technical skills, and experience.
 
+### Quick Overview: [Simple Portfolio](https://simple-portfolio-khjd.onrender.com/)
+
 ## Sections Included
 
 - **About Me**
