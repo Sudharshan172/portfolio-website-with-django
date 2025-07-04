@@ -4,7 +4,7 @@ This is a simple portfolio website built using **HTML**, **CSS**, **Bootstrap**,
 
 #### To View Portfolio: [Click Here](https://simple-portfolio-khjd.onrender.com/)
 
-## Sections Included
+## Sections Included:
 
 - **About Me**
 - **Education**
@@ -15,7 +15,7 @@ This is a simple portfolio website built using **HTML**, **CSS**, **Bootstrap**,
 ## Tech Stack
 - **HTML**
 - **CSS**
-- **Bootstrap**
+- **Tailwind CSS**
 - **Python**
 - **Django**
 
